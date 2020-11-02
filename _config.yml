@@ -22,7 +22,7 @@ urls:
     - text: Get Started
       url: /get-started
     - text: GitHub
-      url: https://markcrowe-com.github.io/
+      url: https://github.com/markcrowe-com
 
 # Edit these details
 
@@ -61,13 +61,18 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
+                visibility: false
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
+                visibility: false
+              - project_thumbnail: datastructures.java.PNG
+                project_title: Data Structures and Algorithms
+                project_description: Data Structures and Algorithms: Binary Search Trees, Graphs, Queues, Stacks in Java
+                project_url: https://github.com/markcrowe-com/datastructures.java
+                project_url: https://github.com/markcrowe-com/datastructures.cs
                 visibility: true
-
 # social links
 #twitter_username: johndoe
 #github_username:  sujaykundu777
