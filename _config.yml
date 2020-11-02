@@ -67,7 +67,7 @@ author_project_details:
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
                 visibility: false
-              - project_thumbnail: datastructures.java.PNG
+              - project_thumbnail: datastructures.java.png
                 project_title: Data Structures and Algorithms
                 project_description: Data Structures and Algorithms: Binary Search Trees, Graphs, Queues, Stacks in Java
                 project_url: https://github.com/markcrowe-com/datastructures.java
