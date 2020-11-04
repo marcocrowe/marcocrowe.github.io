@@ -1,5 +1,5 @@
 title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -7,6 +7,8 @@ url: "https://markcrowe-com.github.io" # the base hostname & protocol for your s
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
+    - text: Home
+      url: /
     - text: About Me
       url: /about
     - text: Blog
@@ -24,16 +26,17 @@ urls:
     - text: GitHub
       url: https://github.com/markcrowe-com
 
-# Edit these details
+# Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
 author: Mark Crowe
-author_bio: Hi, my name is Mark. I am currently constructing this website  built this site using devlopr-jekyll :D
+author_bio: Hi, my name is Mark. I am currently constructing this website built with devlopr-jekyll.
 author_email: "mail@sujaykundu.com"
 author_location: Ireland
 author_website_url: "https://sujaykundu.com"
-typewrite-text: I am currently constructing this website  built this site using devlopr-jekyll
+typewrite-text: I am currently constructing this website built with devlopr-jekyll.
 
+# Experiences
 author_work_experiences:
             - company_name: Google
               company_logo: google.png
@@ -48,6 +51,7 @@ author_work_experiences:
               description: Worked on various Azure Cloud Products
               visibility: false
 
+# Education
 author_education_details:
               - college_logo: mit.png
                 college_name: MIT
@@ -56,6 +60,7 @@ author_education_details:
                 description: Bachelor of Technology
                 visibility: true
 
+# Projects
 author_project_details:
               - project_thumbnail: gamershub.png
                 project_title: Gamers Hub
@@ -73,6 +78,7 @@ author_project_details:
                 project_url: https://github.com/markcrowe-com/datastructures.java
                 project_url: https://github.com/markcrowe-com/datastructures.cs
                 visibility: true
+
 # social links
 #twitter_username: johndoe
 #github_username:  sujaykundu777
@@ -132,7 +138,10 @@ paginate_path: "/blog/page/:num/"
 
 # Shop
 collections:
- - products
+  products:
+    output: true
+  authors:
+    output: true
 
 # Gallery
 defaults:
@@ -141,6 +150,13 @@ defaults:
       path: "gallery"
     values:
       permalink: /:path/:basename:output_ext
+  -
+    scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
+      permalink: /blog/authors/:slug
 
 # Build settings
 plugins:
