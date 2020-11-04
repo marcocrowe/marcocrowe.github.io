@@ -11,4 +11,5 @@ _site/
 
 .bundle
 .bundle/
+.vs/
 vendor/
