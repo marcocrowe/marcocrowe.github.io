@@ -76,12 +76,11 @@ author_project_details:
                 project_title: Data Structures and Algorithms
                 project_description: "Data Structures and Algorithms: Binary Search Trees, Graphs, Queues, Stacks in Java"
                 project_url: https://github.com/markcrowe-com/datastructures.java
-                project_url: https://github.com/markcrowe-com/datastructures.cs
                 visibility: true
 
 # social links
 #twitter_username: johndoe
-#github_username:  sujaykundu777
+github_username:  markcrowe-com
 #facebook_username: johndoe
 #linkedin_username: johndoe
 #behance_username: johndoe
@@ -97,7 +96,7 @@ author_project_details:
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: markcrowe
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
