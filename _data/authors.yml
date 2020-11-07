@@ -47,3 +47,12 @@ xplor4r:
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
 
+markcrowe:
+   name: Mark Crowe
+   username: markcrowe
+   bio: "Full Stack Developer and Teacher, based in Ireland"
+   site: https://https://markcrowe-com.github.io/#/
+   avatar: markcrowe.png
+   social:
+      - title: "github"
+        url: "https://github.com/markcrowe-com"
