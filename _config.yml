@@ -30,11 +30,11 @@ urls:
 
 author_logo: profile.png
 author: Mark Crowe
-author_bio: Hi, my name is Mark. I am currently constructing this website built with devlopr-jekyll.
+author_bio: Hi, my name is Mark. I am currently constructing this website.
 author_email: "roreply@github.io"
 author_location: Ireland
 author_website_url: "https://markcrowe-com.github.io"
-typewrite-text: I am currently constructing this website built with devlopr-jekyll.
+typewrite-text: I am currently constructing this website.
 
 # Experiences
 author_work_experiences:
@@ -53,7 +53,7 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: lit.jpg
                 #college_name: MIT
                 #college_url: https://mit.org
                 college_degree: Computer Systems
