@@ -1,3 +1,7 @@
+### markcrowe-com
+
+![Deploy to Github Pages](https://github.com/markcrowe-com/markcrowe-com.github.io/workflows/Deploy%20to%20Github%20Pages/badge.svg)
+
 ### devlopr-jekyll - A Beautiful Jekyll Theme Built for Developers
 
 [![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)![workflow-badge](https://github.com/sujaykundu777/devlopr-jekyll/workflows/deploy/badge.svg)
