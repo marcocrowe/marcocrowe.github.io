@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Editing the devlopr-jekyl website using VS Code"
-summary: "Editing the devlopr-jekyl website using VS Code"
 date: 2020-11-16 20:43
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
 author: markcrowe
 keywords: "devlopr-jekyl, VS Code, Extensions"
 usemathjax: true
+summary: "Editing the devlopr-jekyl website using VS Code"
 permalink: /blog/editing-the-devlopr-jekyl-website-using-VS-Code/
 ---
 
