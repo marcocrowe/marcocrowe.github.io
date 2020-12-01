@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows PC Tools and Utilites Setup"
+title: Windows PC Tools and Utilites Setup
 date: 2020-11-21 17:19
 category:
 - Install
@@ -8,15 +8,9 @@ category:
 - Windows 10
 thumbnail: /assets/img/posts/code.jpg
 author: markcrowe
-keywords: 
-- Maintenance
-- Study Tools
-- Tools
-- Utilites
-- Windows 10
-- winget
+keywords: Maintenance, Study Tools, Tools, Utilites, Windows 10, winget
 usemathjax: true
-summary: "Tools and Utilites for your Windows PC"
+summary: Tools and Utilites for your Windows PC
 permalink: /blog/windows-pc-tools-and-utilites-setup-/
 tags:
 - Maintenance
