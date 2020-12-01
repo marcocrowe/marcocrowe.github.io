@@ -8,7 +8,7 @@ keywords: "Java, Tools, Utilites, Windows 10"
 summary: "Software Development Tools for Java"
 thumbnail: /assets/img/posts/hello.jpg
 permalink: /blog/java-software-development-setup/
-#tags: []
+tags: ["Software Development", Java]
 summary: 
 ---
 
