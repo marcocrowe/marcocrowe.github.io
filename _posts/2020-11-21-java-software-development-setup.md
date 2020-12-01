@@ -40,23 +40,41 @@ For students the benifits
 
 [Download GitHub Desktop](https://desktop.github.com/)
 
-## Winmerge
+## WinMerge
+
+[Download WinMerge](https://winmerge.org/)
 
 # Database Develeopment Tools
 
 ## MySQL
-## Xampp
+
+[Download MySQL Community Installer](https://dev.mysql.com/downloads/installer/)
+
+## XAMPP
+
+[Download XAMPP](https://www.apachefriends.org/index.html)
 
 # Java Develeopment Tools
 
 ## Java JDK
 
+### Java SE Development Kit 8 
+[Download Java SE Development Kit 8](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
+
+
 Register with your K number
 
 Details are not given under oat.
 
-## Apache Netbeans
+## Apache NetBeans
+[Download Apache NetBeans](https://netbeans.apache.org/download/)
+
+### Plugins
 
 ### Web Servers
 
+#### Apache Tomcat
+[Download Apache Tomcat](https://tomcat.apache.org/)
 
+#### GlassFish
+[Download GlassFish](https://javaee.github.io/glassfish/)
