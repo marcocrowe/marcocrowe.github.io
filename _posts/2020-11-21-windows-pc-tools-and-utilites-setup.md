@@ -2,14 +2,22 @@
 layout: post
 title: "Windows PC Tools and Utilites Setup"
 date: 2020-11-21 17:19
-category: Windows10
+category: Windows 10
 thumbnail: /assets/img/posts/code.jpg
 author: markcrowe
-keywords: "Study Tools, Tools, Utilites, Windows 10"
+keywords: 
+- Study Tools
+- Tools
+- Utilites
+- Windows 10
 usemathjax: true
 summary: "Tools and Utilites for your Windows PC"
 permalink: /blog/windows-pc-tools-and-utilites-setup-/
-#tags: []
+tags:
+- Study Tools
+- Tools
+- Utilites
+- Windows 10
 ---
 
 ## PatchMyPC

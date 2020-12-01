@@ -2,13 +2,21 @@
 layout: post
 title: "Java Software Development Setup"
 date: 2020-11-21 17:32
-category: ["Software Development", Java]
+category:
+- Software Development
+- Java
 author: markcrowe
-keywords: "Java, Tools, Utilites, Windows 10"
+keywords:
+- Java
+- Tools
+- Utilites
+- Windows 10
 summary: "Software Development Tools for Java"
 thumbnail: /assets/img/posts/hello.jpg
 permalink: /blog/java-software-development-setup/
-tags: ["Software Development", Java]
+tags:
+- Software Development
+- Java
 summary: 
 ---
 
