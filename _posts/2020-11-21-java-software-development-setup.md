@@ -6,6 +6,7 @@ category: ["Software Development", Java]
 author: markcrowe
 keywords: "Java, Tools, Utilites, Windows 10"
 summary: "Software Development Tools for Java"
+thumbnail: /assets/img/posts/hello.jpg
 permalink: /blog/java-software-development-setup/
 #tags: []
 summary: 
