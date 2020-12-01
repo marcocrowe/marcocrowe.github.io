@@ -15,11 +15,21 @@ tags:
 - Java
 summary: 
 ---
+# Java Software Development Setup
+
+For winget version see [Java Software Development Setup Winget](/blog/java-software-development-setup/)
 
 # Software Develeopment Tools
 
-## Git Bash
+## Git
+[Download Git](https://git-scm.com/downloads)
+<div style="text-align: justify ">[Download Git](https://git-scm.com/downloads)
+</div>
+[Download Git](https://git-scm.com/downloads)
+
 ## GitHub Desktop
+
+
 ## Winmerge
 
 # Database Develeopment Tools
