@@ -1,7 +1,3 @@
-### markcrowe-com
-
-![Deploy to Github Pages](https://github.com/markcrowe-com/markcrowe-com.github.io/workflows/Deploy%20to%20Github%20Pages/badge.svg)
-
 ### devlopr-jekyll - A Beautiful Jekyll Theme Built for Developers
 
 [![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)![workflow-badge](https://github.com/sujaykundu777/devlopr-jekyll/workflows/deploy/badge.svg)
@@ -19,6 +15,23 @@ Highly Customizable and No Hosting or Maintainence Cost is required !
 ![devlopr jekyll](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/screenshot.PNG?raw=true)
 
 devlopr uses Markdown Files to generate data like Blog Posts, Gallery, Shop Products etc. No external database is required.
+
+### [Get Started Locally]
+
+To get started follow this [tutorial](https://devlopr.netlify.app/get-started).Then follow the below commands to start the server locally at http://127.0.0.1:4000/.
+
+```sh
+$ git clone https://github.com/your_github_username/your_github_username.github.io.git
+$ cd your_github_username
+$ ruby -v
+$ gem install bundler
+$ bundler -v
+$ bundle add jekyll
+$ bundle exec jekyll -v
+$ bundle update
+$ bundle install
+$ bundle exec jekyll serve --watch
+```
 
 ### Deploy your devlopr-jekyll blog - One Click Deploy
 
@@ -38,7 +51,7 @@ devlopr uses Markdown Files to generate data like Blog Posts, Gallery, Shop Prod
 #### Features :
 
 - Local CMS Admin Support using [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)
-- Onine CMS Admin Support using [Netlify CMS](https://sujaykundu.com/jekyll/2020/05/24/how-to-setup-netlify-cms-with-github-hosted-devlopr-blog/#/), Forestry, [Siteleaf](https://sujaykundu.com/jekyll/2019/05/22/using-siteleaf/), CloudCannon.
+- Onine CMS Admin Support using [Netlify CMS](https://sujaykundu.com/blog/how-to-setup-netlify-cms-with-github-pages-hosted-jekyll-blog/), Forestry, Siteleaf, CloudCannon.
 - Supports Latest [Jekyll 4.x](https://jekyllrb.com) and [Bundler](https://bundler.io)
 - Stylesheet built using Sass
 - Comments using [Hyvor](https://talk.hyvor.com/) and [Disqus](https://disqus.com/)
@@ -49,7 +62,7 @@ devlopr uses Markdown Files to generate data like Blog Posts, Gallery, Shop Prod
 - Contact Forms using [Formspree](https://formspree.io/)
 - Coding Activity using [Wakatime](https://wakatime.com/)
 - Hosting Support for [Github Pages](https://pages.github.com), [Netlify](https://netlify.com), [Zeit](https://zeit.co), [Heroku](https://heroku.com), [AWS Amplify](aws.amplify.com), [Firebase](https://firebase.com)
-- CI/CD Support using [Travis CI](https://sujaykundu.com/blog/posts/deploy-jekyll-blog-using-github-pages-and-travis-ci/), Buddy , Circle CI
+- CI/CD Support using [Travis CI](https://sujaykundu.com/blog/deploy-jekyll-blog-using-github-pages-and-travis-ci/), Buddy , Circle CI
 
 #### Jekyll Admin
 You can easily manage the site locally using the Jekyll admin : [http://localhost:4000/admin](http://localhost:4000/admin)
@@ -130,13 +143,11 @@ Contributions are more than just welcome. Fork this repo and create a new branch
 
 ### Remove Credits
 
-You can remove credits/footer attribution links, by Donating $5 to our [Open Collective](https://opencollective.com/devlopr-jekyll/donate) or [Buymeacoffee](https://buymeacoffee.com/sujaykundu).
+You can remove credits/footer attribution links, by Donating $5 to [Buymeacoffee](https://buymeacoffee.com/sujaykundu)  or [Open Collective](https://opencollective.com/devlopr-jekyll/donate).
 
 Thanks to all our Backers ! 🙏 [Become a Backer](https://opencollective.com/devlopr-jekyll#backer)
 
 <a href="https://opencollective.com/devlopr-jekyll#backers" target="_blank"><img src="https://opencollective.com/devlopr-jekyll/backers.svg?width=890" /></a>
-
-<a href="https://opencollective.com/devlopr-jekyll#backers" target="_blank"><img src="https://opencollective.com/devlopr-jekyll/tiers/backer.svg?avatarHeight=36" /> </a>
 
 ### For Help :
 
