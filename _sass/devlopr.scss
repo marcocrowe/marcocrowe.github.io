@@ -110,7 +110,7 @@ ol, ul {
 }
 
 /* Progress bar */
-.my-class .bar {
+.progressline .bar {
     background: #f69801;
 }
 
@@ -149,6 +149,10 @@ pre {
     display: block;
     font-size: 87.5%;
     color: #d4d4d4 !important;
+}
+
+.m10{
+    margin:35px;
 }
 
 blockquote {
@@ -411,7 +415,7 @@ header {
 }
 
 #blog-post-container{
-    margin-top: -20px;
+    margin-top: 20px;
     margin-left: -35px;
 }
 
@@ -489,7 +493,7 @@ header {
     text-transform: none;
 }
 .snipcart-payment-methods__title {
-    background-color: black !important;
+    background-color:  var(--main-background-color) !important;
 }
 
 /* jumbotron */
@@ -615,9 +619,9 @@ header {
     padding-left: 50px !important;
 }
 
-#blog-posts-container{
-    margin-left:20px !important;
-}
+// #blog-posts-container{
+//     margin-left:20px !important;
+// }
 
 #article-container{
     display: grid;
@@ -658,17 +662,6 @@ header {
     background: transparent;
 }
 
-
-@media (min-width: 768px) {
-    .offset-md-1 {
-    margin-left: 3.333333% !important;
-    }
-    // #topNav{
-    //     padding-left: 100px;
-    //     padding-right: 100px;
-    //     background-color: var(--nav-color) !important;
-    // }
-}
 
 #profile-card {
     text-align: center;
