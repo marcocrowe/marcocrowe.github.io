@@ -13,3 +13,6 @@ _site/
 .bundle/
 .vs/
 vendor/
+
+# WinMerge generated files
+*.bak
