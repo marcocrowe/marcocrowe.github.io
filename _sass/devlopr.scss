@@ -218,8 +218,8 @@ header {
 }
 
 #topNav{
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 15%;
+    padding-right: 15%;
     background-color: var(--main-background-color) !important;
     box-shadow: #000 0px 0px 8px;
 }
@@ -496,14 +496,7 @@ header {
     background-color:  var(--main-background-color) !important;
 }
 
-/* jumbotron */
-.jumbotron {
-    background-color: var(--main-background-color) !important;
-    background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-}
+
 /* pagination */
 .pagination-link{
     padding:15px;
@@ -524,14 +517,12 @@ header {
 }
 
 .jumbotron-heading{
-    color: #111;
     font-size: 35px;
 }
 
 .lead {
     font-size: 1.30rem !important;
     font-weight: 600;
-    color: #111 !important;
 }
 
 .fa {
@@ -786,7 +777,16 @@ footer {
 
 
 
+
 /* Responsive Media Queries */
+
+@media screen and (min-width: 768px) {
+    .main-container{
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+}
 
  /*
     ##Device = Low Resolution Tablets, Mobiles (Landscape)
@@ -1018,8 +1018,8 @@ footer {
                 width: auto;
                 float:left;
             }
-
  }
+
 
  /* Github Follow Button */
 .widget-lg .btn, .widget-lg .social-count {
