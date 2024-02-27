@@ -1,9 +1,9 @@
-title: markcrowe-com
+title: marcocrowe
 subtitle: "Mark Crowe : My Projects, tutorials and more"
 description: >- # this means to ignore newlines until "baseurl:"
   Mark Crowe : My Projects, tutorials and more.
 
-url: "https://markcrowe-com.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://marcocrowe.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -25,7 +25,7 @@ urls:
     #- text: Get Started
     #  url: /get-started
     - text: GitHub
-      url: https://github.com/markcrowe-com
+      url: https://github.com/marcocrowe
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
@@ -34,7 +34,7 @@ author: Mark Crowe
 author_bio: Hi, my name is Mark. I am currently constructing this website.
 author_email: "roreply@github.io"
 author_location: Ireland
-author_website_url: "https://markcrowe-com.github.io"
+author_website_url: "https://marcocrowe.github.io"
 typewrite-text: I am currently constructing this website.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -77,25 +77,25 @@ author_project_details:
               - project_thumbnail: datastructures.java.png
                 project_title: Data Structures and Algorithms
                 project_description: "Data Structures and Algorithms: Binary Search Trees, Graphs, Queues, Stacks in Java"
-                project_url: https://github.com/markcrowe-com/datastructures.java
-                #project_url: https://github.com/markcrowe-com/datastructures.cs
+                project_url: https://github.com/marcocrowe/datastructures.java
+                #project_url: https://github.com/marcocrowe/datastructures.cs
                 visibility: true
 
 # social links
-#twitter_username: johndoe
-github_username:  markcrowe-com
-#facebook_username: johndoe
-#linkedin_username: johndoe
-#behance_username: johndoe
-#instagram_username: johndoe
-#medium_username: johndoe
-#telegram_username: johndoe
-#dribbble_username: johndoe
-#flickr_username: johndoe
+#twitter_username: john-doe
+github_username:  marcocrowe
+#facebook_username: john-doe
+#linkedin_username: john-doe
+#behance_username: john-doe
+#instagram_username: john-doe
+#medium_username: john-doe
+#telegram_username: john-doe
+#dribbble_username: john-doe
+#flickr_username: john-doe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
-# disqus_shortname: sujay-kundu
+# disqus_shortname: john-doe
 #hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
