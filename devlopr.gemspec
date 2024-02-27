@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "devlopr"
-  spec.version       = "0.4.6"
+  spec.version       = "0.4.9"
   spec.authors       = ["Sujay Kundu"]
   spec.email         = ["sujaykundu777@gmail.com"]
 
@@ -18,12 +18,12 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency "jekyll", ">= 3.5", "< 5.0"
   spec.add_runtime_dependency "jekyll-sitemap", '~> 1.4.0'
-  spec.add_runtime_dependency "jekyll-feed", '~> 0.13.0'
+  spec.add_runtime_dependency "jekyll-feed", '>= 0.13', '< 0.18'
   spec.add_runtime_dependency "jekyll-seo-tag", '~> 2.6.1'
   spec.add_runtime_dependency "jekyll-paginate", '~> 1.1.0'
   spec.add_runtime_dependency "jekyll-gist", '~> 1.5.0'
   spec.add_runtime_dependency "jekyll-admin", '~> 0.11.0'
 
-  spec.add_development_dependency "bundler", "~> 2.2.29"
-  spec.add_development_dependency "rake", "~> 12.0"
+  spec.add_development_dependency "bundler", "~> 2.3.15"
+  spec.add_development_dependency "rake", "~> 13.0"
 end
