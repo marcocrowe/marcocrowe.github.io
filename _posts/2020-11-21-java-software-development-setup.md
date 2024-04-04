@@ -20,7 +20,7 @@ summary:
 For winget version see [Java Software Development Setup Winget](/blog/java-software-development-setup/)
 
 
-# Quick start download links:
+## Quick start download links:
 [Download Git](https://git-scm.com/downloads)
 [Download GitHub Desktop](https://desktop.github.com/)
 [Download WinMerge](https://winmerge.org/)
@@ -30,9 +30,9 @@ For winget version see [Java Software Development Setup Winget](/blog/java-softw
 [Download Apache NetBeans](https://netbeans.apache.org/download/)
 
 
-# Software Develeopment Tools
+## Software Develeopment Tools
 
-## Git
+### Git
 <div style="text-align: justify ">
 Git is a source code management version-control system for tracking changes in any set of files and allows for coordinating work among programmers cooperating on source code during software development.  An added benifit is that when used with an online service such as GitLab or GitHub is provides a remote backup of the files.
 </div>
@@ -47,29 +47,29 @@ For students the benifits are
 
 [Download Git](https://git-scm.com/downloads)
 
-## GitHub Desktop
+### GitHub Desktop
 
 [Download GitHub Desktop](https://desktop.github.com/)
 
-## WinMerge
+### WinMerge
 
 [Download WinMerge](https://winmerge.org/)
 
-# Database Develeopment Tools
+## Database Develeopment Tools
 
-## MySQL
+### MySQL
 
 [Download MySQL Community Installer](https://dev.mysql.com/downloads/installer/)
 
-## XAMPP
+### XAMPP
 
 [Download XAMPP](https://www.apachefriends.org/index.html)
 
-# Java Develeopment Tools
+## Java Develeopment Tools
 
-## Java JDK
+### Java JDK
 
-### Java SE Development Kit 8 
+#### Java SE Development Kit 8 
 [Download Java SE Development Kit 8](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
 
 
@@ -77,15 +77,15 @@ Register with your K number
 
 Details are not given under oat.
 
-## Apache NetBeans
+### Apache NetBeans
 [Download Apache NetBeans](https://netbeans.apache.org/download/)
 
-### Plugins
+#### Plugins
 
-### Web Servers
+#### Web Servers
 
-#### Apache Tomcat
+##### Apache Tomcat
 [Download Apache Tomcat](https://tomcat.apache.org/)
 
-#### GlassFish
+##### GlassFish
 [Download GlassFish](https://javaee.github.io/glassfish/)
