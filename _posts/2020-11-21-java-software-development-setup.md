@@ -6,7 +6,7 @@ category:
 - Software Development
 - Java
 author: markcrowe
-keywords: Java, Tools, Utilites, Windows 10
+keywords: Java, Tools, Utilities, Windows 10
 summary: Software Development Tools for Java
 thumbnail: /assets/img/posts/hello.jpg
 permalink: /blog/java-software-development-setup/
@@ -15,77 +15,79 @@ tags:
 - Java
 summary: 
 ---
-# Java Software Development Setup
+
+## Java Software Development Setup
 
 For winget version see [Java Software Development Setup Winget](/blog/java-software-development-setup/)
 
+### Quick start download links
 
-## Quick start download links:
-[Download Git](https://git-scm.com/downloads)
-[Download GitHub Desktop](https://desktop.github.com/)
-[Download WinMerge](https://winmerge.org/)
-[Download Java SE Development Kit 8](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
-[Download Java SE Development Kit 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
-[Download MySQL Community Installer](https://dev.mysql.com/downloads/installer/)
-[Download Apache NetBeans](https://netbeans.apache.org/download/)
+- [Download Git](https://git-scm.com/downloads)
+- [Download GitHub Desktop](https://desktop.github.com/)
+- [Download WinMerge](https://winmerge.org/)
+- [Download Java SE Development Kit 8](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
+- [Download Java SE Development Kit 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
+- [Download MySQL Community Installer](https://dev.mysql.com/downloads/installer/)
+- [Download Apache NetBeans](https://netbeans.apache.org/download/)
 
+### Software Development Tools
 
-## Software Develeopment Tools
+#### Git
 
-### Git
 <div style="text-align: justify ">
-Git is a source code management version-control system for tracking changes in any set of files and allows for coordinating work among programmers cooperating on source code during software development.  An added benifit is that when used with an online service such as GitLab or GitHub is provides a remote backup of the files.
+Git is a source code management version-control system for tracking changes in any set of files and allows for coordinating work among programmers cooperating on source code during software development.  An added benefits is that when used with an online service such as GitLab or GitHub is provides a remote backup of the files.
 </div>
-For students the benifits are 
+For students the benefits are
 1. You can track your changes.
 2. You can go back to previous working version of the code at any time.
 3. You can view old version for use in reports.
 4. Have a backup
 5. Third party proof of work done on a date on time.
 6. Experience for industry.
-7. Profilo
+7. Portfolio
 
-[Download Git](https://git-scm.com/downloads)
+- [Download Git](https://git-scm.com/downloads)
 
-### GitHub Desktop
+#### GitHub Desktop
 
-[Download GitHub Desktop](https://desktop.github.com/)
+- [Download GitHub Desktop](https://desktop.github.com/)
 
-### WinMerge
+#### WinMerge
 
-[Download WinMerge](https://winmerge.org/)
+- [Download WinMerge](https://winmerge.org/)
 
-## Database Develeopment Tools
+### Database Development Tools
 
-### MySQL
+#### MySQL
 
-[Download MySQL Community Installer](https://dev.mysql.com/downloads/installer/)
+- [Download MySQL Community Installer](https://dev.mysql.com/downloads/installer/)
 
-### XAMPP
+#### XAMPP
 
-[Download XAMPP](https://www.apachefriends.org/index.html)
+- [Download XAMPP](https://www.apachefriends.org/index.html)
 
-## Java Develeopment Tools
+### Java Development Tools
 
-### Java JDK
+#### Java JDK
 
-#### Java SE Development Kit 8 
-[Download Java SE Development Kit 8](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
+#### Java SE Development Kit 8
 
+- [Download Java SE Development Kit 8](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
+- Register with your K number
+- Details are not given under oat.
 
-Register with your K number
+#### Apache NetBeans
 
-Details are not given under oat.
+- [Download Apache NetBeans](https://netbeans.apache.org/download/)
 
-### Apache NetBeans
-[Download Apache NetBeans](https://netbeans.apache.org/download/)
+##### Plugins
 
-#### Plugins
+##### Web Servers
 
-#### Web Servers
+###### Apache Tomcat
 
-##### Apache Tomcat
-[Download Apache Tomcat](https://tomcat.apache.org/)
+- [Download Apache Tomcat](https://tomcat.apache.org/)
 
-##### GlassFish
-[Download GlassFish](https://javaee.github.io/glassfish/)
+###### GlassFish
+
+- [Download GlassFish](https://javaee.github.io/glassfish/)

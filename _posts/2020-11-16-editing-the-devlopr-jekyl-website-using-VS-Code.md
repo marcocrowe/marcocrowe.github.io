@@ -25,5 +25,6 @@ Type in Jekyll
 
 Select 1, 2, 3, 4
 
-Type in MarkDown 
+Type in MarkDown
+
 Select

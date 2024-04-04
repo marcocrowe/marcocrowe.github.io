@@ -11,7 +11,7 @@ usemathjax: true
 permalink: /blog/added-latex-equations-support/
 ---
 
-## You can now use LaTex to write equations :
+## You can now use LaTex to write equations
 
 In the frontmatter of the article add this :
 

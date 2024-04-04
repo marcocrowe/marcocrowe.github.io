@@ -15,19 +15,15 @@ tags:
 - Java
 summary: 
 ---
-# Java Development Environment Quick Setup for Windows
 
-## Software download links:
-[Download Git](https://git-scm.com/downloads)
+## Java Development Environment Quick Setup for Windows
 
-[Download GitHub Desktop](https://desktop.github.com/)
+### Software download links
 
-[Download WinMerge](https://winmerge.org/)
-
-[Download Java SE Development Kit 8](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
-
-[Download Java SE Development Kit 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
-
-[Download MySQL Community Installer](https://dev.mysql.com/downloads/installer/)
-
-[Download Apache NetBeans](https://netbeans.apache.org/download/)
+- [Download Git](https://git-scm.com/downloads)
+- [Download GitHub Desktop](https://desktop.github.com/)
+- [Download WinMerge](https://winmerge.org/)
+- [Download Java SE Development Kit 8](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
+- [Download Java SE Development Kit 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
+- [Download MySQL Community Installer](https://dev.mysql.com/downloads/installer/)
+- [Download Apache NetBeans](https://netbeans.apache.org/download/)

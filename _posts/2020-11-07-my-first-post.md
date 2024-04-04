@@ -11,8 +11,8 @@ usemathjax: true
 permalink: /blog/my-first-post/
 ---
 
-## My First Post:
+## My First Post
 
 My First Post.
 
-Cheers ! 
+Cheers !

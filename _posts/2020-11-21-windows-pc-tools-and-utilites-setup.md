@@ -32,15 +32,16 @@ Place the Program in C:\Program Files (portable)\
 
 ## CCleaner
 
-Add the folllowing folders
-
+Add the following folders
 
 ## Windows Explorer Setup
 
 ## Brave
 
-### Extensions 
+### Extensions
+
 #### one tab
+
 #### get Pocket
 
 ## 7-Zip
