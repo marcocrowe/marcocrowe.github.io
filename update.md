@@ -1,20 +1,43 @@
 
 # Update from Originating Repository
 
-## Step 1: Add the remote repository
+**Ensure upstream:**
+
+```bash
+git remote -v
+
+```
+
+In the output if you see
+
+```txt
+upstream        https://github.com/sujaykundu777/devlopr-jekyll.git (fetch)
+upstream        https://github.com/sujaykundu777/devlopr-jekyll.git (push)
+```
+
+If not add the remote repository
 
 ```bash
 git remote add upstream https://github.com/sujaykundu777/devlopr-jekyll.git
+
 ```
 
-## Step 2: Fetch the changes
+## Merge
 
-```bash
-git fetch upstream
-```
+1. Fetch the changes
 
-## Step 3: Merge the changes
+   ```bash
+   git fetch upstream
 
-```bash
-git merge upstream/master
-```
+    ```
+
+2. Merge the changes
+
+    ```bash
+    git merge upstream/master
+
+    ```
+
+3. Correct any conflicts using the IDE
+
+---
