@@ -31,4 +31,3 @@ jobs:
           provider: "github" # Default is github
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
           branch: "gh-pages" # Default is gh-pages for github provider
-          jekyll_image: "jekyll/builder:4.3.3" # FIXED: Overrides the dead image with a working one
