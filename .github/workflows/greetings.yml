@@ -10,7 +10,7 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - uses: actions/first-interaction@v3
+    - uses: actions/first-interaction@v5
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: >-
